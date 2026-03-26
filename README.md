@@ -1,2 +1,14 @@
-# chris-qa-04-template
-Prototype: QA-04 Template - Deployed via VibeSharing
+# QA-04 Template
+
+Deployed via [VibeSharing](https://vibesharing.app).
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+
+Push to main branch - changes go live automatically.
